@@ -1,0 +1,25 @@
+# Academic Research — CORDOVA_PLUGIN_CAMERA
+
+**Company:** Anticloud FZ LLE
+**Model:** PAX L5 Narrow L2 General 27B
+**Project:** CORDOVA_PLUGIN_CAMERA | Category: MOBILE
+**Upstream:** https://github.com/nicedoc/cordova-plugin-camera (Apache 2.0)
+
+## Overview
+
+This document covers academic research for the Anticloud integration of CORDOVA_PLUGIN_CAMERA.
+
+Camera plugin for Cordova mobile
+
+## Anticloud Integration
+
+PAX L5 Narrow L2 General 27B is integrated into CORDOVA_PLUGIN_CAMERA to provide:
+- Local AI inference with zero cloud dependency
+- AIOSS tamper-evident audit chain
+- AES-256 encryption at rest
+- Single-binary deployment
+
+## Contact
+
+Lois-Kleinner Alpasan — CEO & CTO, Anticloud FZ LLE
+lois@0-1.gg | 0-1.gg

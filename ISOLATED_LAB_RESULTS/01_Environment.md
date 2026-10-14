@@ -1,0 +1,6 @@
+# Environment - CORDOVA_PLUGIN_CAMERA
+
+- platform: win32
+- python: 3.12.10
+- runner: `python tools/run_bench.py` (cwd = `anticloud/`)
+- category: MOBILE
